@@ -1,7 +1,7 @@
 # Household-Electric-Power-Consumption
 
 # Project Scope and Business Goal
-project_scope = """
+"""
 Project Scope and Business Goal
 Project Scope:
 The project's primary objective is the development of a machine learning model to predict household electric power consumption using the provided dataset. The specific challenge addressed is the minute-averaged prediction of global active power in households. Aligned with the educational goals of AWS Academy Cloud Foundations and Data Engineering, the project emphasizes practical applications of machine learning within the energy domain.
@@ -11,8 +11,7 @@ Operating in the energy domain, the project focuses on understanding and forecas
 """
 
 # Literature
-literature = """
-Literature:
+"""
 Electricity Consumption Dataset of Uruguay (ECD-UY):
 Introduces ECD-UY, a dataset focusing on electricity consumption patterns in residential households in Montevideo. It includes subsets covering total household consumption, electric water heater usage, and disaggregated electricity consumption by appliance. Collected using smart meters, smart switches, and clamp meters, it contributes to understanding customer behavior and improving energy service quality. The collaboration between UTE and the Universidad de la República highlights Uruguay's unique position with high renewable energy use.
 [Link](https://www.nature.com/articles/s41597-022-01122-x)
@@ -35,14 +34,14 @@ Addresses the challenge of predicting individual household energy consumption, p
 """
 
 # Data Source(s)
-data_sources = """
+"""
 Data Source(s):
 The dataset utilized, "Individual Household Electric Power Consumption," is sourced from the UCI Machine Learning Repository. It encompasses over two million measurements of electric power consumption in a household spanning nearly four years. Features include date, time, global active power, global reactive power, voltage, global intensity, and sub-metering values. Challenges within the dataset include approximately 1.25% missing values, necessitating preprocessing to handle these gaps.
 [Link to Dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
 """
 
 # Challenges
-challenges = """
+"""
 Challenges:
 Domain-specific Challenges:
 In the energy domain, challenges include the imperative for accurate predictions to ensure efficient energy distribution. Ethical considerations underscore responsible data handling practices to uphold user privacy.
