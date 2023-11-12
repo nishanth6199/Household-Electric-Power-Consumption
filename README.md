@@ -1,10 +1,10 @@
 # Project Scope and Business Goal
 
 Project Scope and Business Goal
-Project Scope:
+## Project Scope:
 The project's primary objective is the development of a machine learning model to predict household electric power consumption using the provided dataset. The specific challenge addressed is the minute-averaged prediction of global active power in households. Aligned with the educational goals of AWS Academy Cloud Foundations and Data Engineering, the project emphasizes practical applications of machine learning within the energy domain.
 
-Domain:
+## Domain:
 Operating in the energy domain, the project focuses on understanding and forecasting household electricity consumption. Key characteristics include time-series data, multivariate features, and challenges related to missing values. Stakeholders may include energy providers, policymakers, and households seeking to optimize power usage.
 
 # Literature
