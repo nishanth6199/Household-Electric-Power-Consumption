@@ -31,8 +31,10 @@ The dataset utilized, "Individual Household Electric Power Consumption," is sour
 [Link to Dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
 
 # Challenges
-Domain-specific Challenges:
-In the energy domain, challenges include the imperative for accurate predictions to ensure efficient energy distribution. Ethical considerations underscore responsible data handling practices to uphold user privacy.
+1. In the energy domain, challenges include the imperative for accurate predictions to ensure efficient energy distribution.
+2. Ethical considerations underscore responsible data handling practices to uphold user privacy.
+3. Capturing and understanding the temporal dynamics of electricity consumption over the nearly four-year period covered by the dataset is challenging.
+4. Handling sudden peaks or drops in power consumption, which might be caused by specific events or anomalies, poses a challenge for prediction models.
 
 # KPIs (Key Performance Indicators):
 Key Performance Indicators encompass metrics such as accuracy, precision, and recall. The selection of these metrics hinges on the project's specific goals, such as minimizing errors in predicting global active power.
